@@ -19,6 +19,6 @@ Excel dashboard analysing membership, revenue and churn for FitZone Gym (Dakahli
 
 **Recommendation:** Focus on upgrading Basic members to Premium/VIP, since Basic has the highest churn.
 
-**Data:** WRITE HERE: real or simulated
+Data: simulated dataset modelled on a gym in Dakahlia
 
 **File:** Gym_Membership_Analytics_Dashboard.xlsx
